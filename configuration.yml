@@ -1,0 +1,5 @@
+applications:
+
+  digital-street-search-api:
+    repo: https://github.com/mattgirdler/digital-street-title-api.git
+    ref: master
